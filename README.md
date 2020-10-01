@@ -1,4 +1,4 @@
-# A GUI Weather App in Python using Tkniter app.
+# A GUI Weather App in Python using Tkinter app.
 How it works:<br>
 Write down the name of a city.<br>
 ![alt text](https://github.com/nmshafie1993/WeatherApp/blob/main/0.PNG) <br>
